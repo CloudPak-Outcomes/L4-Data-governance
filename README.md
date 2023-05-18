@@ -1,8 +1,6 @@
 # L4-Data-governance
 Data governance Level 4 course materials
 
-# L4-DSandMLOps-AIGovernance
-
 ## **PoX best practices** (4-6 hours)<br/>
 ### 1. **General PoX best practices** :white_check_mark:<br/>
 - [General PoX best practices level 4 (YourLearning - 2 hours)](https://yourlearning.ibm.com/activity/PLAN-331A2AB52C0F)
